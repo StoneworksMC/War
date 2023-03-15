@@ -7,12 +7,12 @@ assignees: Matt-MX
 
 ---
 
-**Please describe what you want in this suggestion.**
-A concise and short explaination of what this is for and why it should be considered.
+- **Please describe what you want in this suggestion.**
+<!-- A concise and short explaination of what this is for and why it should be considered. -->
 
-**How should this feature interact with players?**
-Describe briefly how player interaction should work.
-If this section is not relevant, please delete it.
+- **How should this feature interact with players?**
+<!-- Describe briefly how player interaction should work.
+If this section is not relevant, please delete it. -->
 
 <details>
 <summary>Further details</summary>
