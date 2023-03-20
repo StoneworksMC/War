@@ -45,6 +45,12 @@ This gamemode will last for a similar amount of time to single KOTH.
 
 The Battle gamemode will be for small/medium towns.
 
+### Further information
+
+If you die in battle then your angel chest can only be opened by allies or opposition. Rats will not be able to take your loot and run away. (Prevent outsiders from stealing your loot and running off) **After 5 minutes the angel chest can be claimed by anyone**.
+
+War progress can be tracked via an in-game war GUI. The "leader" of a side can use this to organize and schedule/decide strategies (optional).
+
 ### Note
 
 No plans are absolutely final, this is the general idea of what we currently have in mind.
